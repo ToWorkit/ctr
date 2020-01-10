@@ -32,3 +32,5 @@
 
     https://zhuanlan.zhihu.com/p/42158565
     通过用户向量u和每个video的embedding向量(Vj)进行内积，过一遍softmax，得出用户对每个video的概率，取概率最大的前N个作为recall
+    
+    hit rate=命中数/点击数
