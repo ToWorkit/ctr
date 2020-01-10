@@ -1,5 +1,12 @@
 ### 参考链接
 
+#### Match
+    
+    user based cf
+    item based cf
+    model based cf
+    
+
 #### FM
 
     https://www.cnblogs.com/maybe2030/p/5427148.html
@@ -15,3 +22,13 @@
 #### CF
     
     https://blog.csdn.net/chivalrousli/article/details/80306448
+
+#### DNN
+    
+    多模态
+    DNN召回 Collaborative Multi-modal deep learning for the personalized product retrieval in Facebook Marketplace
+
+#### YouTubeNet
+
+    https://zhuanlan.zhihu.com/p/42158565
+    通过用户向量u和每个video的embedding向量(Vj)进行内积，过一遍softmax，得出用户对每个video的概率，取概率最大的前N个作为recall
