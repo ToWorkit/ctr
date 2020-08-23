@@ -1,3 +1,3 @@
 # ctr
-推荐的match/recall和rank
+推荐系统，recall和rank
 
